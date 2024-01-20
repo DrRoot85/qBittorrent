@@ -1,1 +1,1 @@
-# qBittorrent
+# qBittorrent .config
